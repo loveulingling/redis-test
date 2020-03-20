@@ -63,9 +63,4 @@ public class CodeSenderServlet extends HttpServlet {
 		}
 		return code;
 	} 
-	public void test() {
-		System.out.println("111");
-		System.out.println("111");
-		System.out.println("111");
-	}
 }
